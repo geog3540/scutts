@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Sonja's Portfolio</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/3-col-portfolio.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="#">Sonja Cutts's Geovisualization Portfolio</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="index.html">Home
+                <span class="sr-only">(current)</span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="files/koylu_cv_23.pdf">Resume</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="mailto:caglar-koylu@uiowa.edu">Contact</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+
+      <!-- Page Heading -->
+      <h1 class="my-4">Sonja Cutts
+        <small>Student</small>
+      </h1>
+
+      <div class="row">
+          <div class="col-lg-4 col-sm-6 portfolio-item">
+              <img class="card-img-top" src="Images/Recent_Headshot.jpg" alt="">
+         </div>
+         <p class="card-text">Quarantining through the chaos of COVID as a high schooler, I realized something: I wanted to help create a safer, more equitable world. With that goal in mind, I’m currently pursuing an Ethics and Public Policy B.A. at the University of Iowa. This cross-disciplinary program combines philosophy, economics, sociology, and political science, preparing students for various roles within the fields of law, government, and public service. One of my favorite things about the University of Iowa is its extensive and unique degree offerings. Consequently, I’m enrolled in six different degree programs! Coursework for the Social Science Analytics certificate complements my major by teaching me how to use software like Excel and Stata in public policy contexts. I took Foundations of GIS for that program, a course I enjoyed so much that I decided to add a Geographic Information Science minor. My remaining degree programs (a Writing certificate, Political Science minor, and Environmental Policy and Planning minor) allow me to explore some of my greatest passions. The Writing certificate has been especially engaging, since the University of Iowa has one of the most renowned undergraduate writing programs in the country. I’ve even been able to join the Translate Iowa Project, one of the many writing-focused extracurriculars on campus. As a member, I translate student work into Latin for publication in the organization’s literary magazine. Since studying Latin is one of my biggest hobbies, I’m thrilled to incorporate it into my undergraduate experience.</p>
+      </div>
+      <!-- /.row -->
+
+
+    </div>
+    <!-- /.container -->
+
+    <!-- Footer -->
+    <footer class="py-5 bg-dark">
+      <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Sonja Cutts 2025</p>
+      </div>
+      <!-- /.container -->
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  </body>
+
+</html>
